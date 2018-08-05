@@ -1,1 +1,1 @@
-# coinparator
+# Coinparator
