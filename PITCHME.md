@@ -1,5 +1,7 @@
 # CLIs + NodeJS
-Criando aplicaçoes CLIs com NodeJS de uma forma bonita e rápida
+## Criando aplicaçoes CLIs com NodeJS de uma forma bonita e rápida
+Fabiano Amaral Freitas
+Computer Engineer at Pagar.me
 
 ---
 
